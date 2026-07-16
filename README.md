@@ -1,21 +1,20 @@
-# Hey, I'm Theodore Bullock 👋
+# Hey, I'm Theodore Bullock
 
 ## About Me
 
-I'm an IT professional with a systems administration background who enjoys building secure, automated, and scalable cloud infrastructure on AWS.
+I'm a Cloud Engineer with a systems administration background focused on designing, automating, and troubleshooting AWS infrastructure.
 
-This GitHub documents my journey as I build hands-on cloud projects using AWS, Terraform, Linux, Docker, and Kubernetes while strengthening my skills in automation, networking, and cloud security.
+This GitHub documents my hands-on cloud projects as I continue developing expertise in AWS, Terraform, Linux, Docker, Kubernetes, networking, and cloud security.
 
-## Current Focus
+## Technologies
 
 - AWS Cloud Infrastructure
 - Terraform (Infrastructure as Code)
 - Linux Administration
 - Docker
-- Kubernetes
+- Amazon EKS (Kubernetes)
 - Networking & Security
 - Git & GitHub
-- Kubernetes
 
 ## What You'll Find Here
 
