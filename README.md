@@ -6,6 +6,10 @@ I'm a Cloud Engineer with a systems administration background focused on designi
 
 This GitHub documents my hands-on cloud projects as I continue developing expertise in AWS, Terraform, Linux, Docker, Kubernetes, networking, and cloud security.
 
+## Certifications
+- AWS Certified Cloud Practitioner (2026)
+- CompTIA Security+
+
 ## Technologies
 
 - AWS Cloud Infrastructure
